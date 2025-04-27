@@ -1,0 +1,14 @@
+C:\Users\acadl\Documents\DESENVOLVIMENTO BACK-END\FUNDAMENTOS DE DADOS COM C#\projetos-framework\repos\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net8.0\PrimeiroPrograma.exe
+C:\Users\acadl\Documents\DESENVOLVIMENTO BACK-END\FUNDAMENTOS DE DADOS COM C#\projetos-framework\repos\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net8.0\PrimeiroPrograma.deps.json
+C:\Users\acadl\Documents\DESENVOLVIMENTO BACK-END\FUNDAMENTOS DE DADOS COM C#\projetos-framework\repos\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net8.0\PrimeiroPrograma.runtimeconfig.json
+C:\Users\acadl\Documents\DESENVOLVIMENTO BACK-END\FUNDAMENTOS DE DADOS COM C#\projetos-framework\repos\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net8.0\PrimeiroPrograma.dll
+C:\Users\acadl\Documents\DESENVOLVIMENTO BACK-END\FUNDAMENTOS DE DADOS COM C#\projetos-framework\repos\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net8.0\PrimeiroPrograma.pdb
+C:\Users\acadl\Documents\DESENVOLVIMENTO BACK-END\FUNDAMENTOS DE DADOS COM C#\projetos-framework\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net8.0\PrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acadl\Documents\DESENVOLVIMENTO BACK-END\FUNDAMENTOS DE DADOS COM C#\projetos-framework\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net8.0\PrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\acadl\Documents\DESENVOLVIMENTO BACK-END\FUNDAMENTOS DE DADOS COM C#\projetos-framework\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net8.0\PrimeiroPrograma.AssemblyInfo.cs
+C:\Users\acadl\Documents\DESENVOLVIMENTO BACK-END\FUNDAMENTOS DE DADOS COM C#\projetos-framework\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net8.0\PrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\acadl\Documents\DESENVOLVIMENTO BACK-END\FUNDAMENTOS DE DADOS COM C#\projetos-framework\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net8.0\PrimeiroPrograma.dll
+C:\Users\acadl\Documents\DESENVOLVIMENTO BACK-END\FUNDAMENTOS DE DADOS COM C#\projetos-framework\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net8.0\refint\PrimeiroPrograma.dll
+C:\Users\acadl\Documents\DESENVOLVIMENTO BACK-END\FUNDAMENTOS DE DADOS COM C#\projetos-framework\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net8.0\PrimeiroPrograma.pdb
+C:\Users\acadl\Documents\DESENVOLVIMENTO BACK-END\FUNDAMENTOS DE DADOS COM C#\projetos-framework\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net8.0\PrimeiroPrograma.genruntimeconfig.cache
+C:\Users\acadl\Documents\DESENVOLVIMENTO BACK-END\FUNDAMENTOS DE DADOS COM C#\projetos-framework\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net8.0\ref\PrimeiroPrograma.dll
